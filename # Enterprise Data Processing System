@@ -1,0 +1,47 @@
+# Enterprise Data Processing System
+
+## 📌 Overview
+This project is a Python-based backend system designed to simulate an enterprise-level data processing pipeline. It focuses on handling large datasets efficiently by applying data validation, transformation, and batch processing techniques.
+
+## 🚀 Features
+- Data extraction from CSV files
+- Data validation and error handling
+- Data transformation and cleaning
+- Batch processing simulation
+- Modular architecture using OOP principles
+- Scalable and maintainable code structure
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Object-Oriented Programming (OOP)
+
+## 📂 Project Structure
+- data/ → Input datasets
+- src/ → Core application logic
+- tests/ → Unit tests
+
+## ▶️ How to Run
+1. Clone the repository:
+   git clone https://github.com/yourusername/enterprise-data-processing.git
+
+2. Navigate to project folder:
+   cd enterprise-data-processing
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Run the application:
+   python src/main.py
+
+## 📊 Sample Use Case
+Processes raw CSV data, validates records, removes inconsistencies, and outputs cleaned data ready for analytics or storage.
+
+## ✅ Key Learnings
+- Implemented SDLC practices
+- Applied OOP for modular design
+- Simulated enterprise data workflows
+- Learned batch processing concepts
+
+## 👤 Author
+Indrajeet Adagonda Hale
